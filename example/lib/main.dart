@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:alerts/alerts.dart';
+import 'package:flutter_alerts/flutter_alerts.dart';
 
 void main() {
   runApp(const MyApp());

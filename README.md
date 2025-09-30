@@ -2,9 +2,9 @@
 
 A powerful and flexible Flutter package that provides highly customizable alert dialogs with themes, animations, multiple buttons, and input fields. Perfect for enhancing user interactions in your Flutter applications! 🚀
 
-![Pub Likes](https://img.shields.io/pub/likes/alerts)
-![Pub Points](https://img.shields.io/pub/points/alerts)
-![Pub Monthly Downloads](https://img.shields.io/pub/dm/alerts)
+![Pub Likes](https://img.shields.io/pub/likes/flutter_alerts)
+![Pub Points](https://img.shields.io/pub/points/flutter_alerts)
+![Pub Monthly Downloads](https://img.shields.io/pub/dm/flutter_alerts)
 ![GitHub Issues](https://img.shields.io/github/issues/rohit-chouhan/alerts-flutter)
 ![GitHub PRs](https://img.shields.io/github/issues-pr/rohit-chouhan/alerts-flutter)
 ![GitHub Forks](https://img.shields.io/github/forks/rohit-chouhan/alerts-flutter)
@@ -27,7 +27,7 @@ A powerful and flexible Flutter package that provides highly customizable alert 
 Import the package:
 
 ```dart
-import 'package:alerts/alerts.dart';
+import 'package:flutter_alerts/flutter_alerts.dart';
 ```
 
 ### Basic Alert Dialog
