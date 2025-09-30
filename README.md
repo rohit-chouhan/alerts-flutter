@@ -2,12 +2,12 @@
 
 A powerful and flexible Flutter package that provides highly customizable alert dialogs with themes, animations, multiple buttons, and input fields. Perfect for enhancing user interactions in your Flutter applications! 🚀
 
-![Pub Likes](https://img.shields.io/pub/likes/flutter_alerts)
-![Pub Points](https://img.shields.io/pub/points/flutter_alerts)
-![Pub Monthly Downloads](https://img.shields.io/pub/dm/flutter_alerts)
-![GitHub Issues](https://img.shields.io/github/issues/rohit-chouhan/alerts-flutter)
-![GitHub PRs](https://img.shields.io/github/issues-pr/rohit-chouhan/alerts-flutter)
-![GitHub Forks](https://img.shields.io/github/forks/rohit-chouhan/alerts-flutter)
+![Pub Likes](https://img.shields.io/pub/likes/alert_plus)
+![Pub Points](https://img.shields.io/pub/points/alert_plus)
+![Pub Monthly Downloads](https://img.shields.io/pub/dm/alert_plus)
+![GitHub Issues](https://img.shields.io/github/issues/rohit-chouhan/alert_plus_flutter)
+![GitHub PRs](https://img.shields.io/github/issues-pr/rohit-chouhan/alert_plus_flutter)
+![GitHub Forks](https://img.shields.io/github/forks/rohit-chouhan/alert_plus_flutter)
 
 ![screenshot](/images/screenshot.gif)
 
@@ -247,11 +247,11 @@ Have you found a bug or have a suggestion of how to enhance Alerts Package? Open
 
 ## 🐛 Report bugs or issues
 
-You are welcome to open a _[ticket](https://github.com/rohit-chouhan/alerts-flutter/issues)_ on github if any problems arise. New ideas are always welcome.
+You are welcome to open a _[ticket](https://github.com/rohit-chouhan/alert_plus_flutter/issues)_ on github if any problems arise. New ideas are always welcome.
 
 ## 📄 Copyright and License
 
-> Copyright © 2025 **[Rohit Chouhan](https://rohitchouhan.com)**. Licensed under the _[MIT LICENSE](https://github.com/rohit-chouhan/alerts-flutter/blob/main/LICENSE)_.
+> Copyright © 2025 **[Rohit Chouhan](https://rohitchouhan.com)**. Licensed under the _[MIT LICENSE](https://github.com/rohit-chouhan/alert_plus_flutter/blob/main/LICENSE)_.
 ---
 
 Made with ❤️ for the Flutter community!
