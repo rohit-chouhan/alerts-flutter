@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:flutter_alerts/flutter_alerts.dart';
+import 'package:alert_plus/alert_plus.dart';
 
 void main() {
   group('AlertButton', () {

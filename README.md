@@ -27,7 +27,7 @@ A powerful and flexible Flutter package that provides highly customizable alert 
 Import the package:
 
 ```dart
-import 'package:flutter_alerts/flutter_alerts.dart';
+import 'package:alert_plus/alert_plus.dart';
 ```
 
 ### Basic Alert Dialog
