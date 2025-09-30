@@ -24,11 +24,11 @@ screenshots:
     path: images/logo.webp
 
 topics:
-  - flutter
   - alerts
+  - notification
   - dialogs
   - ui
-  - widgets
+  - toast
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
