@@ -1,9 +1,47 @@
+/// A Flutter package for highly customizable alert dialogs with themes, animations, multiple buttons, input fields, auto-close, and global configuration.
+///
+/// This package provides [CustomAlertDialog] widget and [Alerts.show] method
+/// to display alert dialogs with enhanced customization options beyond the standard Flutter AlertDialog.
+///
+/// ## Features
+/// - Customizable themes and styling
+/// - Multiple buttons support with custom colors and text styles
+/// - Input fields integration
+/// - Various animation options (fade, slide, scale, bounce, rotate)
+/// - Auto-close functionality
+/// - Global configuration system
+/// - Flexible content layout
+///
+/// ## Example
+/// ```dart
+/// Alerts.show(
+///   context,
+///   title: 'Confirm Action',
+///   content: 'Are you sure you want to proceed?',
+///   buttons: [
+///     AlertButton(label: 'Cancel', onPressed: () => Navigator.of(context).pop()),
+///     AlertButton(label: 'OK', onPressed: () => print('Confirmed')),
+///   ],
+/// );
+/// ```
+library alert_plus;
+
 import 'dart:async';
 
 import 'package:flutter/material.dart';
 
 /// Global configuration for alerts package.
+///
+/// This class provides static properties to configure default behavior
+/// for all alert dialogs in the application. Use this to set global
+/// defaults for themes, animations, and other alert properties.
+///
+/// The [AlertConfig] class cannot be instantiated as it only contains
+/// static configuration properties.
 class AlertConfig {
+  /// Private constructor to prevent instantiation of this static-only class.
+  const AlertConfig._();
+
   /// Default theme for all alerts.
   static AlertTheme? defaultTheme;
 
@@ -428,7 +466,17 @@ class _CustomAlertDialogState extends State<CustomAlertDialog>
 /// ```
 ///
 /// A utility class for displaying custom alert dialogs.
+///
+/// This class provides static methods to show customizable alert dialogs
+/// with various options including themes, animations, buttons, and input fields.
+/// Use the [show] method to display dialogs with full customization options.
+///
+/// The [Alerts] class cannot be instantiated as it only contains
+/// static utility methods.
 class Alerts {
+  /// Private constructor to prevent instantiation of this static-only class.
+  const Alerts._();
+
   /// Shows a custom alert dialog.
   ///
   /// Returns a [Future] that completes when the dialog is dismissed.

@@ -1,3 +1,10 @@
+## 1.0.1
+
+### 🔧 Bug Fixes
+* **Repository URL Update**: Updated repository URL to point to the new location
+* **Example App Configuration**: Fixed example app naming conflicts and test issues
+* **Package Dependencies**: Resolved path dependency warnings in example app
+
 ## 1.0.0
 
 ### ✨ Features

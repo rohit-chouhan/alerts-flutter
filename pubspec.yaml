@@ -1,10 +1,10 @@
 name: alert_plus
 description: "A highly customizable Flutter package for alert dialogs with themes, animations, and input fields."
 version: 1.0.1
-homepage: https://github.com/rohit-chouhan/alerts-flutter
-repository: https://github.com/rohit-chouhan/alerts-flutter
-issue_tracker: https://github.com/rohit-chouhan/alerts-flutter/issues
-documentation: https://github.com/rohit-chouhan/alerts-flutter#readme
+homepage: https://github.com/rohit-chouhan/alert_plus_flutter
+repository: https://github.com/rohit-chouhan/alert_plus_flutter
+issue_tracker: https://github.com/rohit-chouhan/alert_plus_flutter/issues
+documentation: https://github.com/rohit-chouhan/alert_plus_flutter#readme
 
 environment:
   sdk: ^3.9.0
